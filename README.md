@@ -225,4 +225,4 @@ Sailcut CAD is provided as a full free version, with all features and updates in
 Ready to take your sail designs to the next level? **Download Sailcut CAD free now and start creating!**
 
 ---
-**Last updated:** 2026-09-27 17:27:03 UTC
+**Last updated:** 2026-09-27 20:49:22 UTC
